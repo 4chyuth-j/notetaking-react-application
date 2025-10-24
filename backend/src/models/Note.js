@@ -1,6 +1,6 @@
 
 
-import mongoose, { mongo } from "mongoose";
+import mongoose from "mongoose";
 
 //1- create schema 
 //2- model based off of that schema
