@@ -36,7 +36,9 @@ const HomePage = () => {
 
 
   return (
+    
     <div className='min-h-screen'>
+      <title>Home</title>
       <Navbar />
       {isRateLimited && <RateLimitedUI />}
 
